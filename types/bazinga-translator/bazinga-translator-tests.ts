@@ -1,3 +1,5 @@
+import Translator from 'bazinga-translator';
+
 Translator.fallback = 'en';
 Translator.defaultDomain = 'messages';
 
