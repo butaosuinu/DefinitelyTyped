@@ -97,3 +97,4 @@ interface BazingaTranslator {
 }
 
 declare const Translator: BazingaTranslator;
+export default Translator;
